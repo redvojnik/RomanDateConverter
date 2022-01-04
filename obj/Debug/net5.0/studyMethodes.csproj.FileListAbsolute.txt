@@ -1,0 +1,16 @@
+D:\приложения\StudyApp1\studyMethodes\bin\Debug\net5.0\studyMethodes.exe
+D:\приложения\StudyApp1\studyMethodes\bin\Debug\net5.0\studyMethodes.deps.json
+D:\приложения\StudyApp1\studyMethodes\bin\Debug\net5.0\studyMethodes.runtimeconfig.json
+D:\приложения\StudyApp1\studyMethodes\bin\Debug\net5.0\studyMethodes.runtimeconfig.dev.json
+D:\приложения\StudyApp1\studyMethodes\bin\Debug\net5.0\studyMethodes.dll
+D:\приложения\StudyApp1\studyMethodes\bin\Debug\net5.0\ref\studyMethodes.dll
+D:\приложения\StudyApp1\studyMethodes\bin\Debug\net5.0\studyMethodes.pdb
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.csproj.AssemblyReference.cache
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.AssemblyInfoInputs.cache
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.AssemblyInfo.cs
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.csproj.CoreCompileInputs.cache
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.dll
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\ref\studyMethodes.dll
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.pdb
+D:\приложения\StudyApp1\studyMethodes\obj\Debug\net5.0\studyMethodes.genruntimeconfig.cache
